@@ -1,0 +1,1 @@
+# version-detector-config
