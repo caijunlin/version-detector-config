@@ -1,3 +1,7 @@
 name = "version-detector-proxy"
 main = "src/index.js"
 compatibility_date = "2026-09-18"
+
+kv_namespaces = [
+  { binding = "MY_CONFIG_KV", id = "def640ece60647f9a268e3bb42d314c6" }
+]
